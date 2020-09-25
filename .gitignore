@@ -1,0 +1,7 @@
+
+*.pyc
+*~
+__pychache__
+my_venv
+db.sqlite3
+/static
